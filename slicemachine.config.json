@@ -1,0 +1,5 @@
+{
+  "repositoryName": "netlify-lookalike",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./slices"]
+}
